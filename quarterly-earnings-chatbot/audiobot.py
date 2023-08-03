@@ -1,3 +1,4 @@
+"""usage: streamlit run audiobot.py"""
 import os
 import tempfile
 
