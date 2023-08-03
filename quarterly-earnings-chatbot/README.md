@@ -1,6 +1,5 @@
-# Build A Q&A Chatbot For Quarterly Earnings Calls
+# Teach a Q&A Chatbot with Audio Recordings
 
-### Blog Post Link: 
+- Blog Post: <https://dev.premai.io/blog/teach-chatbot-with-audio>
 
-
-This repo contains the full code and any other files used in the blog post above.
+This folder contains the full source code used in the blog post above.
